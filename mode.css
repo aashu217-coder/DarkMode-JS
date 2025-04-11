@@ -1,0 +1,24 @@
+.black{
+    background-color: #484841;
+    height: 220px;
+    width: 200px;
+    border-radius: 12px;
+}
+body{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+}
+#select{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 200px;
+}
